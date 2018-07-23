@@ -5,7 +5,7 @@ puts ""
 # Every line should have one instruction using puts.
 # The first instruction
 # Step 1: GOOD
-puts "Step 1: Right arm out in front of you, palm faci
+puts "Step 1: Rig
 # Step 2: FIXME
 puts "Step 2: Turn your right palm up."
 "Turn your right palm up"
